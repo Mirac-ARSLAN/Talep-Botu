@@ -65,4 +65,4 @@ async def ayarla(ctx):
     await guild.create_role(name="Ticket")
 
 
-bot.run("TOKEN HERE")
+bot.run("NzMyNTQwOTk4NDQxMzY5NjIw.Xw2F9w.uAXGe4W4WThB6cUkiq8xFcxRi2c")
